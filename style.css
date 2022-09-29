@@ -1,0 +1,49 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 600px;
+}
+
+#continer {
+    margin: 0px;
+}
+
+#box {
+    background-color: rgb(215, 54, 54);
+    margin: 0px;
+    text-align: center;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#box h1 {
+    padding-top: 25px;
+    text-align: center;
+}
+
+#box p {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+
+.topnav {
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(215, 54, 54);
+}
+
+.topnav a {
+    text-align: center;
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin-bottom: 15px;
+}
