@@ -25,9 +25,12 @@ body {
 #box p {
     padding-bottom: 25px;
     font-size: 30px;
+    margin-bottom: 15px;
 }
 
-
+nav.topnav {
+    padding-bottom: 10px;
+}
 .topnav {
     text-align: center;
     padding-bottom: 5px;
@@ -39,6 +42,11 @@ body {
     display: inline-block;
     padding: 0px 10px;
     color: black;
+}
+
+
+a {
+    text-decoration-style: dotted;
 }
 
 h2 {
@@ -68,6 +76,7 @@ p {
 
 footer {
     border-top: 1px solid rgb(215, 54, 54);
+
 }
 
 footer p {
